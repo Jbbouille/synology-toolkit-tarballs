@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#" version="2.0">
+  <channel xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#">
+    <title>Synology Open Source Project</title>
+    <link>https://sourceforge.net</link>
+    <description><![CDATA[Files from Synology Open Source Project Open source projects that are included with Synology DiskStation/RackStation series. The license used by these projects are different. Please refer to the LICENSE / COPYING / COPYRIGHT file inside each project or any announcement in source code.]]></description>
+    <pubDate>Tue, 21 Apr 2020 07:20:02 UT</pubDate>
+    <managingEditor>noreply@sourceforge.net (SourceForge.net)</managingEditor>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.purley-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.purley-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.purley-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:56 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.purley-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934097</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.purley-6.2.env.txz/download" filesize="380485260"><media:hash algo="md5">a474e4a353b4ada34191c2e5c06e8641</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.purley-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.purley-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.purley-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:45:03 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.purley-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934095</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.purley-6.2.dev.txz/download" filesize="234779068"><media:hash algo="md5">3b9a858b57514da66d1da56a55f8b0cc</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.armada37xx-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada37xx-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada37xx-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:58:50 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.armada37xx-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934089</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada37xx-6.2.env.txz/download" filesize="318641652"><media:hash algo="md5">1c9af7d1a3391e9425c38c795fe5d8cb</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.armada37xx-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada37xx-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada37xx-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:55:24 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.armada37xx-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934085</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada37xx-6.2.dev.txz/download" filesize="217896736"><media:hash algo="md5">fff335e5da542e43bea2e25fcb7969ee</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.apollolake-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.apollolake-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.apollolake-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:39 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.apollolake-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934082</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.apollolake-6.2.env.txz/download" filesize="381693092"><media:hash algo="md5">d41c229a0685507b5a184e4e5c9727a6</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.apollolake-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.apollolake-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.apollolake-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:48:28 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.apollolake-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934077</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.apollolake-6.2.dev.txz/download" filesize="235299952"><media:hash algo="md5">a4cd2630009048b0aaf735d8a2e03ad1</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.denverton-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.denverton-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.denverton-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:48 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.denverton-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934070</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.denverton-6.2.env.txz/download" filesize="380224564"><media:hash algo="md5">17041aa345117fccc1f652473a37e7c6</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.denverton-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.denverton-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.denverton-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:49:49 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.denverton-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934067</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.denverton-6.2.dev.txz/download" filesize="235802512"><media:hash algo="md5">9cc97e5a2f16e9567f750bf80f4e0792</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.broadwellnk-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwellnk-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwellnk-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:50 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.broadwellnk-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934063</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwellnk-6.2.env.txz/download" filesize="382036852"><media:hash algo="md5">e5aecc26a568fa565d2b3908f1efcff3</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.broadwellnk-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwellnk-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwellnk-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:50:22 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.broadwellnk-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934062</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwellnk-6.2.dev.txz/download" filesize="236034396"><media:hash algo="md5">98d943495fcdc1ce97802caddd644538</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.rtd1296-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.rtd1296-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.rtd1296-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:17 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.rtd1296-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934057</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.rtd1296-6.2.env.txz/download" filesize="318756436"><media:hash algo="md5">4bf1a40997bc6f5994454098660aceeb</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.rtd1296-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.rtd1296-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.rtd1296-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:49:48 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.rtd1296-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934056</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.rtd1296-6.2.dev.txz/download" filesize="221176748"><media:hash algo="md5">9c4abdb18f7e4dc6492aa88a0d6a888c</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.kvmx64-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.kvmx64-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.kvmx64-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:33 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.kvmx64-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934053</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.kvmx64-6.2.env.txz/download" filesize="380414464"><media:hash algo="md5">b32ae027a95ca3c8aa7ed2d4ae20f277</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.kvmx64-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.kvmx64-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.kvmx64-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:49:51 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.kvmx64-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934051</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.kvmx64-6.2.dev.txz/download" filesize="235963260"><media:hash algo="md5">4f5d3d7682dbca9ffbd1a33f5b8b5c46</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.6281-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.6281-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.6281-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:22 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.6281-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934048</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.6281-6.2.env.txz/download" filesize="318778188"><media:hash algo="md5">c0a724d7c468e2ef696fc5019e1120bb</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.6281-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.6281-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.6281-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:41:03 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.6281-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934043</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.6281-6.2.dev.txz/download" filesize="187271776"><media:hash algo="md5">bf0d0a318ec7750e39b59c75720b84cd</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.qoriq-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.qoriq-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.qoriq-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:55 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.qoriq-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934041</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.qoriq-6.2.env.txz/download" filesize="462059704"><media:hash algo="md5">dbd07fca531780481b1ecb2a16042097</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.qoriq-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.qoriq-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.qoriq-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:46:49 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.qoriq-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934040</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.qoriq-6.2.dev.txz/download" filesize="207201628"><media:hash algo="md5">d696bac06ddceeeaac0e713640ae7744</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.hi3535-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.hi3535-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.hi3535-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:47 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.hi3535-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934036</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.hi3535-6.2.env.txz/download" filesize="330745308"><media:hash algo="md5">c491fc1337b91ae46d2b1135e74d9fcf</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.hi3535-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.hi3535-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.hi3535-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:42:32 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.hi3535-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934034</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.hi3535-6.2.dev.txz/download" filesize="196149232"><media:hash algo="md5">375acdcff38e9fb5f3cd6df143e04516</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.armada375-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada375-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada375-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:50 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.armada375-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934032</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada375-6.2.env.txz/download" filesize="371780516"><media:hash algo="md5">8eaa9a4b3f91a1406b8553fac7271e05</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.armada375-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada375-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada375-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:41:50 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.armada375-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934031</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada375-6.2.dev.txz/download" filesize="201518052"><media:hash algo="md5">ba887e2e29cc26d40a69ad26879733d9</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.armada370-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada370-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada370-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:16 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.armada370-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934028</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada370-6.2.env.txz/download" filesize="360165212"><media:hash algo="md5">92e02d179e753bc91d9fc55c4115fd49</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.armada370-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada370-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada370-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:44:55 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.armada370-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934026</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada370-6.2.dev.txz/download" filesize="199512148"><media:hash algo="md5">e466cd267f0fca4ae1f684c1a8c51811</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.armadaxp-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armadaxp-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armadaxp-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:15 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.armadaxp-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934023</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armadaxp-6.2.env.txz/download" filesize="358270184"><media:hash algo="md5">e5b478fc078eb0eef5b3540ec55758e6</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.armadaxp-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armadaxp-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armadaxp-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:46:37 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.armadaxp-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934021</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armadaxp-6.2.dev.txz/download" filesize="199650840"><media:hash algo="md5">6e5367d9d19ceb871833c6a360ca9d53</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.evansport-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.evansport-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.evansport-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:17 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.evansport-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934018</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.evansport-6.2.env.txz/download" filesize="329807912"><media:hash algo="md5">f89d0fc373fe3b2b3c7461ca008adc1b</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.evansport-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.evansport-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.evansport-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:46:11 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.evansport-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934016</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.evansport-6.2.dev.txz/download" filesize="216663360"><media:hash algo="md5">d0c282b5207bf3be30f1659104a85c8b</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.comcerto2k-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.comcerto2k-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.comcerto2k-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:31 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.comcerto2k-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934014</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.comcerto2k-6.2.env.txz/download" filesize="394906560"><media:hash algo="md5">4ba7280bca18e026b8bafeb5786291ad</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.comcerto2k-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.comcerto2k-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.comcerto2k-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:03:50 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.comcerto2k-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934013</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.comcerto2k-6.2.dev.txz/download" filesize="203899436"><media:hash algo="md5">02844fa5c055a5c7cf50abb69c884200</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.armada38x-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada38x-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada38x-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:34 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.armada38x-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934009</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada38x-6.2.env.txz/download" filesize="323554220"><media:hash algo="md5">055ede440c2742a8220465dcb50b3207</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.armada38x-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada38x-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada38x-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:42:46 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.armada38x-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934006</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.armada38x-6.2.dev.txz/download" filesize="206235452"><media:hash algo="md5">5ce4881c900e40cf92103ffc8fded4d0</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.monaco-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.monaco-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.monaco-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:10 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.monaco-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934004</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.monaco-6.2.env.txz/download" filesize="323658208"><media:hash algo="md5">5aa61833acf958e954127054963743f9</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.monaco-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.monaco-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.monaco-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:47:28 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.monaco-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934003</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.monaco-6.2.dev.txz/download" filesize="207972044"><media:hash algo="md5">9ca9b1f97b6691516f4e8a3d2bbc025d</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.alpine4k-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine4k-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine4k-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:26 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.alpine4k-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30934000</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine4k-6.2.env.txz/download" filesize="380091892"><media:hash algo="md5">c43569a2417f7e64ee467d2e48e862e9</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.alpine4k-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine4k-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine4k-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:47:47 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.alpine4k-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933999</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine4k-6.2.dev.txz/download" filesize="202633560"><media:hash algo="md5">38e2f85106a1997ce7def0d5a4f4fc81</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.alpine-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:40 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.alpine-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933994</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine-6.2.env.txz/download" filesize="379295164"><media:hash algo="md5">cb0b6978c3f773c0d6487f3310650a46</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.alpine-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:45:46 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.alpine-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933991</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.alpine-6.2.dev.txz/download" filesize="202735172"><media:hash algo="md5">7955a94be59dddf6bf259dc682bdb04d</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.x64-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.x64-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.x64-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:55 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.x64-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933985</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.x64-6.2.env.txz/download" filesize="380885828"><media:hash algo="md5">2039ab3cb6e2aeb97a97eed238b157a7</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.x64-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.x64-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.x64-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:44:27 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.x64-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933979</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.x64-6.2.dev.txz/download" filesize="232881936"><media:hash algo="md5">7134f92ef4f6b93dc63863afe3ea6fd0</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.grantley-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.grantley-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.grantley-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:51 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.grantley-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933974</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.grantley-6.2.env.txz/download" filesize="380226368"><media:hash algo="md5">fb9757d80f8b054db46e39a231cb2195</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.grantley-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.grantley-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.grantley-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:49:07 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.grantley-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933969</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.grantley-6.2.dev.txz/download" filesize="234247616"><media:hash algo="md5">590754ac64163aa517d95dd6640c8cd6</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.dockerx64-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.dockerx64-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.dockerx64-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:57 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.dockerx64-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933960</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.dockerx64-6.2.env.txz/download" filesize="380485364"><media:hash algo="md5">c4a4d8a57ad7ebb39fdfdb719ef92c63</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.dockerx64-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.dockerx64-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.dockerx64-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:44:15 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.dockerx64-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933958</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.dockerx64-6.2.dev.txz/download" filesize="232783692"><media:hash algo="md5">6865d136c957edadf175367b59939090</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.cedarview-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.cedarview-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.cedarview-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:48 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.cedarview-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933952</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.cedarview-6.2.env.txz/download" filesize="380228428"><media:hash algo="md5">5eeeeaed97a3a0e36b3dfa555c3d3898</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.cedarview-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.cedarview-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.cedarview-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:48:36 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.cedarview-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933949</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.cedarview-6.2.dev.txz/download" filesize="231641112"><media:hash algo="md5">178e86f3630553266475c8f7829df13c</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.bromolow-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.bromolow-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.bromolow-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:33 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.bromolow-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933944</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.bromolow-6.2.env.txz/download" filesize="380431168"><media:hash algo="md5">8309a5ea8ed7741b6905ce0c6032eba5</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.bromolow-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.bromolow-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.bromolow-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:49:15 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.bromolow-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933941</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.bromolow-6.2.dev.txz/download" filesize="234346212"><media:hash algo="md5">e775164588347150e3f2983d7425c2a2</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.broadwell-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwell-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwell-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:37 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.broadwell-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933921</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwell-6.2.env.txz/download" filesize="381693092"><media:hash algo="md5">ac9d617f0c193adeff3aa7b95d30a19c</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.broadwell-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwell-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwell-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:47:11 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.broadwell-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933866</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.broadwell-6.2.dev.txz/download" filesize="233909808"><media:hash algo="md5">2baee2e3c47accd98b9f5792ee27fb7b</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.braswell-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.braswell-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.braswell-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:58 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.braswell-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933862</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.braswell-6.2.env.txz/download" filesize="381409172"><media:hash algo="md5">7e687c3b02c613a28f840e0a9b83aa53</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.braswell-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.braswell-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.braswell-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:44:45 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.braswell-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933860</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.braswell-6.2.dev.txz/download" filesize="231521348"><media:hash algo="md5">69c5e1e427fa84ae92bc53fae6a33d8d</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/base_env-6.2.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/base_env-6.2.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/base_env-6.2.txz/download</guid>
+      <pubDate>Fri, 12 Jul 2019 09:44:10 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/base_env-6.2.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933820</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-tar; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/base_env-6.2.txz/download" filesize="2875822080"><media:hash algo="md5">7a53b75a68c0186daf428b3bdf1c56fd</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.avoton-6.2.env.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.avoton-6.2.env.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.avoton-6.2.env.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 09:59:37 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.avoton-6.2.env.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933751</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.avoton-6.2.env.txz/download" filesize="380886940"><media:hash algo="md5">38010d84740f329902e27c94e8dc9dee</media:hash></media:content>
+    </item>
+    <item>
+      <title><![CDATA[/toolkit/DSM6.2/ds.avoton-6.2.dev.txz]]></title>
+      <link>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.avoton-6.2.dev.txz/download</link>
+      <guid>https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.avoton-6.2.dev.txz/download</guid>
+      <pubDate>Wed, 08 May 2019 08:47:04 UT</pubDate>
+      <description><![CDATA[/toolkit/DSM6.2/ds.avoton-6.2.dev.txz]]></description>
+      <files:sf-file-id xmlns:files="https://sourceforge.net/api/files.rdf#">30933743</files:sf-file-id>
+      <files:extra-info xmlns:files="https://sourceforge.net/api/files.rdf#">POSIX tar archive</files:extra-info>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/x-xz; charset=binary" url="https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.avoton-6.2.dev.txz/download" filesize="231125312"><media:hash algo="md5">01f511f89ccd3018fba4c213b056b602</media:hash></media:content>
+    </item>
+  </channel>
+</rss>
